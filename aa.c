@@ -1,6 +1,1 @@
-#include <stdio.h>
-
-int main(void)
-{
-    return 0;
-}
+안녕하세요
